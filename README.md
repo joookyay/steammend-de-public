@@ -1,4 +1,5 @@
 # Final Project <steammend>
+🎮 steam game recommendation & community project🎮
 ## steammend-de Repo
 
 ### python 가상환경 세팅
