@@ -1,7 +1,7 @@
 # Final Project <steammend>
 🎮 steam game recommendation & community project🎮<br>
-👇 steammed 더 알아보기 👇
-https://iamcoz.notion.site/Steammend-6596f5bc20df426ba522c44d26ffe3b0
+👉 [steammed 더 알아보기](https://iamcoz.notion.site/Steammend-6596f5bc20df426ba522c44d26ffe3b0)
+
 ## steammend-de Repo
 
 ### python 가상환경 세팅
