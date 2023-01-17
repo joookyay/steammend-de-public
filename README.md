@@ -40,7 +40,10 @@ NLP기법 중 하나인 TF-IDF 방법을 사용하여 Elastic Cloud에 저장된
 - 대시보드 페이지
 <img src="https://user-images.githubusercontent.com/76192858/212929933-30378592-ea8a-4958-aa29-94e34c674dd7.png" width="800" height="400"/>  
 
-### 게임 추천 서비스
+### 대시보드 시각화 서비스
+<img src="https://user-images.githubusercontent.com/76192858/212931051-6840ef01-a2d3-4da6-9598-7d732db6147e.png" width="800" height="400"/> 
+<img src="https://user-images.githubusercontent.com/76192858/212931320-f61f903a-ec81-475a-82b5-7232a902cccf.png" width="800" height="400"/> 
+
 
 
 ## ⚙️ python 가상환경 세팅
