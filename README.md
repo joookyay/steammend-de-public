@@ -1,7 +1,7 @@
 # Final Project <steammend>
 
 ## 🎮프로젝트 소개
-유저들의 게임 플레이 내역을 기반으로 유사한 게임 추천 및 대시보드 제공, 커뮤니티 서비스
+유저들의 게임 플레이 내역을 기반으로 유사한 게임 추천 및 대시보드 제공, 커뮤니티 서비스<br>
 👉 [steammed 더 알아보기](https://iamcoz.notion.site/Steammend-6596f5bc20df426ba522c44d26ffe3b0)
 
 ## 📅 개발기간
