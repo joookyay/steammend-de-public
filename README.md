@@ -14,8 +14,10 @@ NLP기법 중 하나인 TF-IDF 방법을 사용하여 Elastic Cloud에 저장된
   
 ## 📌주요 기능 소개
 #### 회원가입 및 로그인 
-### 인기, 무료, 세일, 최신 게임 조회/가격, 연령, 장르별 커스터마이징 가능
+### 인기, 무료, 세일, 최신 게임 조회
 <img src="https://user-images.githubusercontent.com/76192858/212885379-6a99ce92-b245-42ca-b3bd-007b1eb16200.png"/>
+  
+### 가격, 연령, 장르별 커스터마이징 가능
 <img src="https://user-images.githubusercontent.com/76192858/212886948-3b8367d2-a63f-43a8-bda8-ea33240a9aba.png"/>
   
 #### 커뮤니티 게시글 작성 및 수정,삭제/댓글 작성 및 수정, 삭제
