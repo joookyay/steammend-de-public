@@ -8,8 +8,8 @@
 2022.10.19 - 2022.11.10
 
 ## ⚙️ 개발언어 및 프레임워크
-언어: Python, Java, JS, CSS/HTML
-프레임워크: Flask, Spring Boot
+언어: Python, Java, JS, CSS/HTML<br>
+프레임워크: Flask, Spring Boot<br>
 데이터베이스: MySQL, Elastic Cloud
 
 ## 🤖 알고리즘 소개
