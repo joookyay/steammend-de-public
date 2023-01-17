@@ -7,6 +7,11 @@
 ## 📅 개발기간
 2022.10.19 - 2022.11.10
 
+## ⚙️ 개발언어 및 프레임워크
+언어: Python, Java, JS, CSS/HTML
+프레임워크: Flask, Spring Boot
+데이터베이스: MySQL, Elastic Cloud
+
 ## 🤖 알고리즘 소개
 스팀게임 API를 사용하여 실시간으로 유저의 게임 플레이 데이터 정보 수집<br>
 NLP기법 중 하나인 TF-IDF 방법을 사용하여 Elastic Cloud에 저장된 인기게임들과 코사인 유사도를 측정<br>
