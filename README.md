@@ -29,12 +29,17 @@ NLP기법 중 하나인 TF-IDF 방법을 사용하여 Elastic Cloud에 저장된
   
 ### 커뮤니티 기능
 - 게시글 작성 및 수정,삭제
-<img src="https://user-images.githubusercontent.com/76192858/212929372-7175ae70-b099-4ac1-a936-72d6f175eb65.png" width="800" height="400"/> 
 - 댓글 작성 및 수정, 삭제
+<img src="https://user-images.githubusercontent.com/76192858/212929372-7175ae70-b099-4ac1-a936-72d6f175eb65.png" width="800" height="400"/> 
 <img src="https://user-images.githubusercontent.com/76192858/212926986-643bc129-45ae-4dc3-a18b-c3753524a071.png" width="800" height="400"/>  
 
-
 ### 게임 추천 서비스
+- 메인페이지
+<img src="https://user-images.githubusercontent.com/76192858/212930249-5c357f46-9d54-4d24-8216-9190d171073b.png" width="800" height="400"/>  
+
+- 대시보드 페이지
+<img src="https://user-images.githubusercontent.com/76192858/212929933-30378592-ea8a-4958-aa29-94e34c674dd7.png" width="800" height="400"/>  
+
 
 ## ⚙️ python 가상환경 세팅
 
