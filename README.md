@@ -15,6 +15,8 @@ NLP기법 중 하나인 TF-IDF 방법을 사용하여 Elastic Cloud에 저장된
 ## 📌주요 기능 소개
 #### 회원가입 및 로그인 
 #### 인기, 할인, 무료, 최신 게임 조회 
+![image](https://user-images.githubusercontent.com/76192858/212885379-6a99ce92-b245-42ca-b3bd-007b1eb16200.png)
+
   
 #### 커뮤니티 게시글 작성 및 수정,삭제/댓글 작성 및 수정, 삭제
   
