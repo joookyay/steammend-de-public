@@ -45,7 +45,7 @@ NLP기법 중 하나인 TF-IDF 방법을 사용하여 Elastic Cloud에 저장된
 <img src="https://user-images.githubusercontent.com/76192858/212930706-efe531a7-fff6-4a2f-a7c9-431ff3e0585d.png" width="800" height="400"/>  
 
 - 대시보드 페이지
-<img src="https://user-images.githubusercontent.com/76192858/212929933-30378592-ea8a-4958-aa29-94e34c674dd7.png" width="800" height="400"/>  
+<img src="https://user-images.githubusercontent.com/76192858/212953033-23c500cc-f228-49dd-9ef6-6c760ee87dba.png" width="800" height="400"/>  
 
 ### 대시보드 시각화 서비스
 <img src="https://user-images.githubusercontent.com/76192858/212931051-6840ef01-a2d3-4da6-9598-7d732db6147e.png" width="800" height="400"/> 
