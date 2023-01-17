@@ -38,7 +38,7 @@ NLP기법 중 하나인 TF-IDF 방법을 사용하여 Elastic Cloud에 저장된
 <img src="https://user-images.githubusercontent.com/76192858/212926986-643bc129-45ae-4dc3-a18b-c3753524a071.png" width="800" height="400"/>  
 
 - 댓글 작성 및 수정, 삭제
-<img src="https://user-images.githubusercontent.com/76192858/212931965-f93ac5f7-bb36-434f-abfe-87961b8c2617.png" width="800" height="400"/>  
+<img src="https://user-images.githubusercontent.com/76192858/212952593-b511ed3f-fc5f-4888-9461-19162e658ab0.png" width="800" height="400"/>  
 
 ### 게임 추천 서비스
 - 메인페이지
