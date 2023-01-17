@@ -13,13 +13,16 @@ NLP기법 중 하나인 TF-IDF 방법을 사용하여 Elastic Cloud에 저장된
 게임 플레이 시간이 가장 긴 5개의 게임과 유사도가 가장 높은 Top5게임 추천
   
 ## 📌주요 기능 소개
-#### 회원가입 및 로그인 
+### 회원가입 기능
+- 회원가입(steamgame id 검색 가능)
+<img src="https://user-images.githubusercontent.com/76192858/212928456-c62b65da-799f-446f-9125-3b06cb712789.png" width="800" height="400"/>
+  
 ### 검색 기능
 - 인기, 무료, 세일, 최신 게임 조회(게임 누르면 스팀공식홈페이지의 해당 게임으로 연동)
-<img src="https://user-images.githubusercontent.com/76192858/212885379-6a99ce92-b245-42ca-b3bd-007b1eb16200.png" width="700" height="350"/>
+<img src="https://user-images.githubusercontent.com/76192858/212885379-6a99ce92-b245-42ca-b3bd-007b1eb16200.png" width="800" height="400"/>
 
 - 가격, 연령, 장르별 커스터마이징 가능(게임 누르면 스팀공식홈페이지의 해당 게임으로 연동)
-<img src="https://user-images.githubusercontent.com/76192858/212886948-3b8367d2-a63f-43a8-bda8-ea33240a9aba.png" width="700" height="350"/>
+<img src="https://user-images.githubusercontent.com/76192858/212886948-3b8367d2-a63f-43a8-bda8-ea33240a9aba.png" width="800" height="400"/>
   
 ### 커뮤니티 기능
 - 게시글 작성 및 수정,삭제
